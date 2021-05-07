@@ -1,0 +1,62 @@
+#navbar{
+    overflow: hidden;
+}
+
+#navbar ul li a {
+  
+    MARGIN: 5PX 10PX 5PX 10PX;
+    padding: 10px 13PX 5PX 6PX;
+}
+#navbar ul li {
+    font-size: 1.1rem;
+}
+a.Brand.center {
+    
+    margin: 0px 0px 5px 0px;
+    padding: 40px 0px 15px 0px;
+   
+    font-size: 5rem;
+   
+}
+.Tag {
+    font-size: 2.5rem;
+  
+}
+#home {
+    height: 310px;
+}
+.list-group-item {
+   
+    padding: 0.3rem .3rem;
+
+    font-size: 0.8rem;
+}
+.card-title {
+    
+    font-size: 1.4em;
+
+}
+
+a.Brand.center {
+    margin: 0px 0px 5px 0px;
+    padding: 20px 0px 8px 0px;
+    font-size: 4rem;
+}
+.Tag {
+    font-size: 2.1em;
+}
+.btn {
+    padding: 7px 33px;
+   
+}
+.Show img {
+
+    height: 340px;
+    
+}
+.box{
+    width: 16rem;
+}
+.white{
+    font-size: 1rem;
+}

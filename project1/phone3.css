@@ -1,0 +1,83 @@
+
+body{
+font-size: .7rem;}
+#navbar ul li a {
+   
+    MARGIN: 0PX 0PX 0PX 0PX;
+    padding: 10px 3PX 10PX 5PX;
+}
+.Alert{
+    font-size: .6rem;
+}
+#home {
+
+    height: 140px;
+}
+#navbar ul li {
+    
+    font-size: .5rem;
+} 
+ a.Brand.center {
+    margin: 10px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    font-size: 1.7em;
+    
+}
+.Tag {
+    font-size: 1.2rem;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 15px 0px;
+    
+}
+.btn {
+   
+    padding: 3px 13px;
+    border-radius: 0px 25px 25px 25px;
+    font-size: .4rem;
+    margin: 0px 0px 0px 0px;
+    
+    
+}
+.serve{
+    font-size: 1.5rem;
+}
+.services{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+div.box{
+    padding: 10px 35px 0px 40px;
+    margin: 0PX 0PX 30PX 0PX;
+}
+.card-title{
+    font-size: 1.3rem;
+}                              
+.Show img{
+    height: 275px;
+}
+.card-body li{
+    font-size: .8rem;
+}
+.card-img, .card-img-top, .card-img-bottom {
+    width: 80%;
+    display: block;
+    margin: auto;
+   
+    
+}
+
+    
+.card>element.style {
+    width: 12rem;
+}
+
+.white{
+    font-size: .5rem;
+}
+
+
+div.box{
+    width: 13rem;
+}

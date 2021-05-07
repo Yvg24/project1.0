@@ -1,0 +1,44 @@
+#navbar{
+    overflow: hidden;
+}
+
+
+#navbar ul li a {
+    MARGIN: 0PX 0PX 0PX 9PX;
+    padding: 10px 35PX 20PX 35PX;
+}
+#navbar ul li {
+    list-style: none;
+    font-size: 1.4rem;
+}
+
+a.Brand.center {
+    
+    margin: 0px 0px 0px 0px;
+    padding: 35px 0px 8px 0px;
+    
+    font-size: 4em;
+ 
+}
+#home{
+    height: 310px;
+}
+.Show img {
+  
+    height: 360px;
+    
+}
+
+div.box {
+    padding: 0px 20px 0px 20px;
+    margin: 15PX 15PX 30PX 15PX;
+    border-radius: 0px 0px 0px 0px;
+    box-shadow: 0 11px 7px 0 rgb(87 66 41 / 29%), 0 20px 43px 0 rgb(0 0 0 / 19%);
+    width: 17rem;
+}
+.card-title {
+    margin-bottom: 0.5rem;
+    font-family: 'Great Vibes', cursive;
+    font-size: 2.1em;
+    font-weight: 500;
+}
